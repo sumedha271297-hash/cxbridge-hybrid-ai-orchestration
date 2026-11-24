@@ -1,0 +1,1 @@
+Original local package: 22 passed, 3 skipped; 10/10 authored synthetic intent smoke cases. CI pending. No paid API calls. Not real-world model accuracy.
